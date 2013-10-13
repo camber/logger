@@ -7,8 +7,9 @@
   // Palette courtesy of http://flatuicolors.com/
   // Shuffled for contrast.
   Logger.colors = [
-    "#2C3E50", // midnight-blue
+    "#3498DB", // peter-river
     "#1ABC9C", // turquoise
+    "#2C3E50", // midnight-blue
     "#C0392B", // pomegranate
     "#2ECC71", // emerland
     "#D35400", // pumpkin
@@ -22,7 +23,6 @@
     "#F39C12", // orange
     "#16A085", // green-sea
     "#E74C3C", // alizarin
-    "#3498DB"  // peter-river
   ];
 
   Logger.color = function() {
